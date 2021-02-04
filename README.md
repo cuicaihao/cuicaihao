@@ -1,6 +1,6 @@
-### Hi there, I am Chris Cui 👋
+### Hi there, I am Caihao Cui 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/_staticvoid)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cuicaihao?label=Follow)](https://twitter.com/cuicaihao)
 [![Linkedin: Chris Cui](https://img.shields.io/badge/-Caihao%20Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caihao-cui/)](https://www.linkedin.com/in/caihao-cui/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=automaticdai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
