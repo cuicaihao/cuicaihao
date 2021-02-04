@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/cuicaihao?label=Follow)](https://twitter.com/cuicaihao)
 [![Linkedin: Chris Cui](https://img.shields.io/badge/-Caihao%20Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caihao-cui/)](https://www.linkedin.com/in/caihao-cui/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=automaticdai&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 I am a **Senior Data Scientist** and **Control System Engineer**. I'm working mostly with Computer Vision and Deep Learning for data analysis along with python and C/C++! I'm also an avid contributor to open source and love to create and develop new projects and ideas around CV and NLP!
 
