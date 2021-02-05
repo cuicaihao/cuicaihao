@@ -9,7 +9,7 @@
 As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly with Computer Vision and Deep Learning application for data analysis along with Python, JS and C/C++! I'm also an avid contributor to open source and love to create and develop new projects and ideas around CV and NLP!
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
-- 🔭 I’m currently working on Computer Vision and Deep Learning for Satellite Image Analysis.
+- 🔭 I’m currently working on Remote Sensing Technologies.
 - 🌱 I’m currently learning Software Product Management (SPM).
 - 🤔 2021 Goals: contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
 - ⚡ Fun fact: I originally planned to be an artist, but accidentally got on the ship of science~
