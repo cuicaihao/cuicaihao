@@ -7,7 +7,6 @@ on:
     # Runs every hour
     - cron: '0 * * * *'
     
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,9 +14,9 @@ jobs:
     steps:
         with:
         - uses: actions/checkout@v2
-        - uses: cuicaihao/blog-post-workflow@master
+        - uses: gautamkrishnar/blog-post-workflow@master
           comment_tag_name: BLOG
-          max_post_count: "4"
+          max_post_count: "5"
           feed_list: "https://cuicaihao.com/feed/"
 
       
