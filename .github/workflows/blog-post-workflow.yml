@@ -12,11 +12,11 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-        with:
         - uses: actions/checkout@v2
         - uses: gautamkrishnar/blog-post-workflow@master
-          comment_tag_name: BLOG
-          max_post_count: "5"
-          feed_list: "https://cuicaihao.com/feed/"
+          with:
+            comment_tag_name: BLOG
+            max_post_count: "5"
+            feed_list: "https://cuicaihao.com/feed/"
 
       
