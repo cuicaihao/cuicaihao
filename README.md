@@ -18,7 +18,6 @@ As a **Senior Data Scientist** and **Control System Engineer**, I'm working most
 📕 **Latest Blog Posts**
 
 <!-- BLOG:START -->
-
 - [Fast Neural Style Transfer by PyTorch (Mac OS)](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
 - [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 - [Google Publish A Survey Paper of Efficient Transformers](https://cuicaihao.com/2020/09/27/google-publish-a-survey-paper-of-efficient-transformers/)
