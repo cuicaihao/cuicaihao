@@ -6,14 +6,15 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly with Computer Vision and Deep Learning application for data analysis with Python, JS and C/C++! I'm also an avid contributor to open source and love to create and develop new projects and ideas around CV and NLP!
+As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly on Computer Vision and Deep Learning applications for data analysis with Python, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around CV and NLP! Besides, I believe I am still quite good with electronic and control engineering.
+
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
-- 🔭 I’m currently working on Remote Sensing Technologies.
+- 🔭 I’m currently working on Remote Sensing Technologies and Billing System Analytics.
 - 🌱 I have been practicing Software Product Management (SPM) with engineering teams of Traffic, Water, Civil and Finance.
-- 🤔 2021 Goals: contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
-- 😎 I have been building on OpenSource project on Quantitative trading and stock ranking.
-- ⚡ Fun fact: I originally planned to be an artist, but accidentally got on the ship of science~
+- 🤔 2022 Goals: contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
+- 😎 Keep building on my OpenSource project on Quantitative trading and stock ranking software. 
+- ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of science and technology~
 
 📕 **Latest Blog Posts**
 
