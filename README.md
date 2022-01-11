@@ -19,10 +19,9 @@ As a **Senior Data Scientist** and **Control System Engineer**, I'm working most
 📕 **Latest Blog Posts**
 
 <!-- BLOG:START -->
-
-- [Fast Neural Style Transfer by PyTorch (Mac OS)](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
+- [Aerial Image Segmentation with Deep Learning on PyTorch](https://cuicaihao.com/2021/08/12/aerial-image-segmentation-with-deep-learning-on-pytorch/)
+- [Fast Neural Style Transfer by PyTorch &lpar;Mac OS&rpar;](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
 - [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 - [Google Publish A Survey Paper of Efficient Transformers](https://cuicaihao.com/2020/09/27/google-publish-a-survey-paper-of-efficient-transformers/)
 - [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
-- [Street View Image Segmentation with PyTorch and Facebook Detectron2 (CPU+GPU)](https://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-detectron2-cpugpu/)
 <!-- BLOG:END -->
