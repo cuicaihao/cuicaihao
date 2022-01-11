@@ -12,8 +12,12 @@ As a **Senior Data Scientist** and **Control System Engineer**, I'm working most
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently working on Remote Sensing Technologies and Billing System Analytics.
 - 🌱 I have been practicing Software Product Management (SPM) with engineering teams of Traffic, Water, Civil and Finance.
-- 🤔 2022 Goals: contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
-- 😎 Keep building on my OpenSource project on Quantitative trading and stock ranking software. 
+- 🤔 2022 Goals:
+    - Keep being role model and the top 10%. 
+    - Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
+    - Write 10 Blogs on technology development, research paper review.
+    - Publish two papers on first~second tier academic journals.
+- 😎 Keep building on my OpenSource project on Quantitative trading and stock ranking software.
 - ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of science and technology~
 
 📕 **Latest Blog Posts**
