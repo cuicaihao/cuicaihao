@@ -6,10 +6,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly on Computer Vision and Deep Learning applications for data analysis with Python, java, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around CV and NLP! Besides, I believe I am still quite good with electronic and control engineering.
+As a **Senior Data Scientist** and former **Control System Engineer**, I'm working mostly on Computer Vision and Deep Learning applications for data analysis with Python, Java, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around NLP and Graph Algorithms!  
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
-- 🔭 I’m currently working on Remote Sensing Technologies and Billing System Analytics.
+- 🔭 I’m currently working on Data Platform and Recommendation System for the largest retail business in Australia.
 - 🌱 I have been practicing Software Product Management (SPM) with engineering teams of Traffic, Water, Civil and Finance.
 - 🤔 2022 Goals:
   - Keep being role model and the top 10%.
