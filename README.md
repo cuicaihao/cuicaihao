@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Friends 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cuicaihao?label=Follow)](https://twitter.com/cuicaihao)
 [![Linkedin: Chris Cui](https://img.shields.io/badge/-Caihao%20Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caihao-cui/)](https://www.linkedin.com/in/caihao-cui/)
@@ -6,7 +6,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
-As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly on Computer Vision and Deep Learning applications for data analysis with Python, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around CV and NLP! Besides, I believe I am still quite good with electronic and control engineering.
+As a **Senior Data Scientist** and **Control System Engineer**, I'm working mostly on Computer Vision and Deep Learning applications for data analysis with Python, java, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around CV and NLP! Besides, I believe I am still quite good with electronic and control engineering.
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently working on Remote Sensing Technologies and Billing System Analytics.
@@ -22,10 +22,12 @@ As a **Senior Data Scientist** and **Control System Engineer**, I'm working most
 📕 **Latest Blog Posts**
 
 <!-- BLOG:START -->
+- [Deep-Learning-Recommender-Systems](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
 - [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
+- [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
 - [Aerial Image Segmentation with Deep Learning on PyTorch](https://cuicaihao.com/2021/08/12/aerial-image-segmentation-with-deep-learning-on-pytorch/)
 - [Fast Neural Style Transfer by PyTorch &lpar;Mac OS&rpar;](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
 - [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 - [Google Publish A Survey Paper of Efficient Transformers](https://cuicaihao.com/2020/09/27/google-publish-a-survey-paper-of-efficient-transformers/)
-- [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
+
 <!-- BLOG:END -->
