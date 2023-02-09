@@ -26,7 +26,7 @@ As a **Senior Data Scientist** (Data Analytics) and former **Control System Engi
     - [ ] TBC
 
 👨🏻‍💻 **Open Source Package**
-- [SplitRaster](https://pypi.org/project/splitraster/) is a python package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles for other applications. 
+- [SplitRaster](https://pypi.org/project/splitraster/) is a python package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
   - [![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster)[![CI](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-app.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-app.yml)[![image](https://img.shields.io/pypi/dm/splitraster?color=blue)](https://python.org/pypi/splitraster)[![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster)
   - Github: https://github.com/cuicaihao/split_raster
   - Pypi: https://pypi.org/project/splitraster/
