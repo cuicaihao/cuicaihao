@@ -17,12 +17,13 @@ As a **Senior Data Scientist** (Data Analytics) and former **Control System Engi
 - 😎 Keep building on my project on quantitative trading and stock ranking software.
 - ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of science and technology~
 - 🤔 2023 Goals:
-  - [ ] Keep being role model and the top 10% in Team.
-  - [ ] Publish one paper on first~second tier academic journals.
-  - [ ] Support academic communities by giving reviews and feedbacks for journals.
+  - [ ] Keep being role model and the top 10% in Team, this is challenging task when surrounded by smart and hardworking people.
+  - [ ] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
+  - [ ] Publish one paper on first~second tier academic journals in 2023 on AI application in industry.
   - [ ] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
   - Write 6 blogs of technology or algorithm applications on my website.
-    - [ ] Title TBC
+    - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/) 
+    - [ ] TBC
 
 👨🏻‍💻 **Open Source Package**
 - [SplitRaster](https://pypi.org/project/splitraster/) is a python package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles for other applications. 
