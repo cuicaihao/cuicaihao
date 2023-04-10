@@ -17,12 +17,12 @@ As a Senior Data Scientist and System Engineer (Planning and Decesion Making), t
 - 😎 Keep building on my project on quantitative trading and stock ranking software.
 - ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of science and technology~
 - 🤔 2023 Goals:
-  - [ ] Keep being role model and the top 10% in Team, this is challenging task when surrounded by smart and hardworking people.
+  - [X] Keep being role model and targeting the top 10% in Teams. 
   - [X] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
+  - [X] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
   - [ ] Publish one paper on first~second tier academic journals in 2023 on AI application in industry.
-  - [ ] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
   - Write 6 blogs of technology or algorithm applications on my website.
-    - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/) 
+    - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/)
     - [ ] Deep-Learning-Recommender-Systems Part 2 Feature Engineering.
 
 👨🏻‍💻 **Open Source Package**
@@ -92,6 +92,4 @@ As a Senior Data Scientist and System Engineer (Planning and Decesion Making), t
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" title="illustrator"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" title="xd"></code>
 
-
- 
---- 
+---
