@@ -23,6 +23,7 @@ As a Senior Data Scientist and System Engineer (Planning and Decesion Making), t
   - [ ] Publish one paper on first~second tier academic journals in 2023 on AI application in industry.
   - Write 6 blogs of technology or algorithm applications on my website.
     - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/)
+    - [X] [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
     - [ ] Deep-Learning-Recommender-Systems Part 2 Feature Engineering.
 
 👨🏻‍💻 **Open Source Package**
