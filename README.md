@@ -9,13 +9,17 @@
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=300" />
 
-As a Senior Data Scientist and System Engineer (Planning and Decesion Making), today I'm working mostly on Machine Learning, Computer Vision, NLP and Deep Learning applications for data analysis with Python, Java, JS and C/C++! I'm also an avid contributor to open source communities and love to create and develop new projects and ideas around NLP and Graph Algorithms!
+As a seasoned Senior Data Scientist, adept Professional Machine Learning Engineer, and accomplished System Engineer specializing in Planning and Decision Making, I thrive at the intersection of cutting-edge technologies. My current focus lies in harnessing the power of Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), and Deep Learning (DL) to craft innovative applications and software solutions.
+
+With expertise spanning multiple programming languages, including Python, Java, JavaScript, and C/C++, I bring a versatile skill set to every project. My work not only revolves around building ML and AI-driven applications but also extends to optimizing system performance and decision-making processes.
+
+In addition to my professional endeavors, I am a passionate advocate for open source communities. I actively contribute to various projects and channel my enthusiasm for NLP and Algorithms into creating and nurturing new initiatives. Explore my GitHub repositories to discover a wealth of projects and ideas at the forefront of technology and data science.
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently working on Data Platform and Recommendation System for the largest retail business in Australia.
 - 🌱 I have been practicing Software Product Management (SPM) for a few private projects related the stock markert and funds analysis since 2019.
-- 😎 Keep building on my project on quantitative trading and stock ranking software.
-- ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of science and technology~
+- 😎 Keep building on my project on Quantitative Trading and Stock Ranking Software.
+- ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of Science and Technology~
 - 🤔 2023 Goals:
   - [X] Keep being role model and targeting the top 10% in Teams. 
   - [X] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
