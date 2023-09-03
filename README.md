@@ -41,6 +41,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
+- [A Guide to Acing the Google Cloud Professional Machine Learning Engineer Certification](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 - [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
 - [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
 - [Aerial Image Segmentation with Deep Learning on PyTorch](https://cuicaihao.com/2021/08/12/aerial-image-segmentation-with-deep-learning-on-pytorch/)
@@ -50,7 +51,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
 - [Street View Image Segmentation with PyTorch and Facebook Detectron2 &lpar;CPU+GPU&rpar;](https://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-detectron2-cpugpu/)
 - [Risk Level Calculation for Contact Tracing: an Example of Apple IOS framework](https://cuicaihao.com/2020/05/01/risk-level-calculation-for-contact-tracing-an-example-of-apple-ios-framework/)
-- [How to Build an Artificial Intelligent System &lpar;II&rpar;](https://cuicaihao.com/2019/09/12/how-to-build-an-artificial-intelligent-system-ii/)
 <!-- BLOG:END -->
 --- 
  
