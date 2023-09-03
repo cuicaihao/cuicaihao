@@ -1,3 +1,5 @@
+<img src="Professional_Linkedin@2x.jpg">
+
 ### Hi Friends  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=14 height=14>
 
 [![C.Cui Blog](https://img.shields.io/badge/C.Cui%20Blog-Live-blue)](https://cuicaihao.com/)
@@ -9,7 +11,7 @@
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=300" />
 
-As a seasoned Senior Data Scientist, adept Professional Machine Learning Engineer, and accomplished System Engineer specializing in Planning and Decision Making, I thrive at the intersection of cutting-edge technologies. My current focus lies in harnessing the power of Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), and Deep Learning (DL) to craft innovative applications and software solutions.
+As a seasoned Senior Data Scientist, adept Professional Machine Learning Engineer, and accomplished Control System Engineer specializing in Planning and Decision Making, I thrive at the intersection of cutting-edge technologies. My current focus lies in harnessing the power of Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), and Deep Learning (DL) to craft innovative applications and software solutions.
 
 With expertise spanning multiple programming languages, including Python, Java, JavaScript, and C/C++, I bring a versatile skill set to every project. My work not only revolves around building ML and AI-driven applications but also extends to optimizing system performance and decision-making processes.
 
