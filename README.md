@@ -27,9 +27,10 @@ In addition to my professional endeavors, I am a passionate advocate for open so
   - [X] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
   - [X] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
   - [ ] Publish one paper on first~second tier academic journals in 2023 on AI application in industry.
-  - Write 6 blogs of technology or algorithm applications on my website.
+  - [ ] Write 6 blogs of technology or algorithm applications on my website.
     - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/)
     - [X] [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
+    - [X] [A Guide to Acing the Google Cloud Professional Machine Learning Engineer Certification](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
     - [ ] Deep-Learning-Recommender-Systems Part 2 Feature Engineering.
 
 👨🏻‍💻 **Open Source Package**
