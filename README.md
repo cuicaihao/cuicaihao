@@ -42,7 +42,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
-- [A Guide to Acing the Google Cloud Professional Machine Learning Engineer Certification](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
+- [Google Cloud Professional Machine Learning Engineer Exam Prep Guide and Study Tips](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 - [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
 - [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
 - [Aerial Image Segmentation with Deep Learning on PyTorch](https://cuicaihao.com/2021/08/12/aerial-image-segmentation-with-deep-learning-on-pytorch/)
