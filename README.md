@@ -42,6 +42,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
+- [F23 Contribution to Standford University Rural Area Education Program](https://cuicaihao.com/2023/10/26/f23-contribution-to-standford-university-rural-area-education-program/)
 - [Google Cloud Professional Machine Learning Engineer Exam Prep Guide and Study Tips](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 - [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
 - [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
@@ -51,7 +52,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Google Publish A Survey Paper of Efficient Transformers](https://cuicaihao.com/2020/09/27/google-publish-a-survey-paper-of-efficient-transformers/)
 - [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
 - [Street View Image Segmentation with PyTorch and Facebook Detectron2 &lpar;CPU+GPU&rpar;](https://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-detectron2-cpugpu/)
-- [Risk Level Calculation for Contact Tracing: an Example of Apple IOS framework](https://cuicaihao.com/2020/05/01/risk-level-calculation-for-contact-tracing-an-example-of-apple-ios-framework/)
 <!-- BLOG:END -->
 --- 
  
