@@ -42,6 +42,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest Blog Posts**
 <!-- BLOG:START -->
+- [Technical Review: Large Language Model &lpar;LLM&rpar; and NLP Research Paradigm Transformation](https://cuicaihao.com/2023/10/30/technical-review-large-language-model-llm-and-nlp-research-paradigm-transformation/)
 - [F23 Contribution to Standford University Rural Area Education Program](https://cuicaihao.com/2023/10/26/f23-contribution-to-standford-university-rural-area-education-program/)
 - [Google Cloud Professional Machine Learning Engineer Exam Prep Guide and Study Tips](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 - [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
@@ -51,7 +52,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 - [Google Publish A Survey Paper of Efficient Transformers](https://cuicaihao.com/2020/09/27/google-publish-a-survey-paper-of-efficient-transformers/)
 - [Annotated-Transformer-English-to-Chinese-Translator](https://cuicaihao.com/2020/09/20/annotated-transformer-english-to-chinese-translator/)
-- [Street View Image Segmentation with PyTorch and Facebook Detectron2 &lpar;CPU+GPU&rpar;](https://cuicaihao.com/2020/06/21/street-view-image-segmentation-with-pytorch-and-facebook-detectron2-cpugpu/)
 <!-- BLOG:END -->
 --- 
  
