@@ -18,29 +18,18 @@ With expertise spanning multiple programming languages, including Python, Java, 
 In addition to my professional endeavors, I am a passionate advocate for open source communities. I actively contribute to various projects and channel my enthusiasm for NLP and Algorithms into creating and nurturing new initiatives. Explore my GitHub repositories to discover a wealth of projects and ideas at the forefront of technology and data science.
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
-- 🔭 I’m currently working on Data Platform and Recommendation System for the largest retail business in Australia.
+- 🔭 I’m currently working on Data Platform and System for the largest retail business in Australia.
 - 🌱 I have been practicing Software Product Management (SPM) for a few private projects related the stock markert and funds analysis since 2019.
 - 😎 Keep building on my project on Quantitative Trading and Stock Ranking Software.
-- ⚡ Fun fact: I originally planned to be an artist/painter, but accidentally got on the ship of Science and Technology~
+- ⚡ Fun Fact: I originally planned to be an artist/painter, but accidentally got on the ship of Science and Technology~
 - 🤔 2023 Goals:
-  - [X] Keep being role model and targeting the top 10% in Teams. 
+  - [X] Keep being role model and targeting the top 10% in Teams.
   - [X] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
   - [X] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
-  - [ ] Publish one paper on first~second tier academic journals in 2023 on AI application in industry.
-  - [ ] Write 6 blogs of technology or algorithm applications on my website.
-    - [X] [How To Write Bash Scripts on Unix/Linux/MacOS](https://cuicaihao.com/learn-how-to-write-bash-scripts-on-unix-linux/)
-    - [X] [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
-    - [X] [A Guide to Acing the Google Cloud Professional Machine Learning Engineer Certification](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
-    - [ ] Deep-Learning-Recommender-Systems Part 2 Feature Engineering.
+  - [X] Keep writing my blogs of technology or algorithm applications on my website.
+  - [ ] Publish one paper onacademic journals in 2023 on AI application in industry.
 
-👨🏻‍💻 **Open Source Package**
-- [SplitRaster](https://pypi.org/project/splitraster/) is a python package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
-  - [![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster)[![CI](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-app.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-app.yml)[![image](https://img.shields.io/pypi/dm/splitraster?color=blue)](https://python.org/pypi/splitraster)[![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster)
-  - Github: https://github.com/cuicaihao/split_raster
-  - Pypi: https://pypi.org/project/splitraster/
-  - Documentation:  https://cuicaihao.github.io/split_raster/ 
-
-📕 **Latest Blog Posts**
+📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
 - [Technical Review 03: Scale Effects &amp; What happens when LLMs get bigger and bigger](https://cuicaihao.com/2023/11/12/technical-review-03-scale-effects-what-happens-when-llms-get-bigger-and-bigger/)
 - [Technical Review 02: Data and Knowlege for Large Language Model &lpar;LLM&rpar;](https://cuicaihao.com/2023/10/30/technical-review-data-and-knowlege-for-large-language-model-llm/)
@@ -53,7 +42,15 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Fast Neural Style Transfer by PyTorch &lpar;Mac OS&rpar;](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
 - [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 <!-- BLOG:END -->
---- 
+---
+
+👨🏻‍💻 **Open Source Project**
+- [SplitRaster](https://pypi.org/project/splitraster/) is a Python Package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
+  - [![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster)[![CI](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-app.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-app.yml)[![image](https://img.shields.io/pypi/dm/splitraster?color=blue)](https://python.org/pypi/splitraster)[![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster)
+  - Github: https://github.com/cuicaihao/split_raster
+  - Pypi: https://pypi.org/project/splitraster/
+  - Tutorial with Docs:  https://cuicaihao.github.io/split_raster/
+
  
 📖 **Tech Stack & Tools** 
 
