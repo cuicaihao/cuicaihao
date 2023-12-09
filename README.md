@@ -31,6 +31,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Technical Review 04:  Human-Computer Interface from In-Context Learning to Instruct Understanding](https://cuicaihao.com/2023/12/09/technical-review-04-human-computer-interface-from-in-context-learning-to-instruct-understanding/)
 - [Technical Review 03: Scale Effects &amp; What happens when LLMs get bigger and bigger](https://cuicaihao.com/2023/11/12/technical-review-03-scale-effects-what-happens-when-llms-get-bigger-and-bigger/)
 - [Technical Review 02: Data and Knowlege for Large Language Model &lpar;LLM&rpar;](https://cuicaihao.com/2023/10/30/technical-review-data-and-knowlege-for-large-language-model-llm/)
 - [Technical Review 01: Large Language Model &lpar;LLM&rpar; and NLP Research Paradigm Transformation](https://cuicaihao.com/2023/10/30/technical-review-large-language-model-llm-and-nlp-research-paradigm-transformation/)
@@ -40,7 +41,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
 - [Aerial Image Segmentation with Deep Learning on PyTorch](https://cuicaihao.com/2021/08/12/aerial-image-segmentation-with-deep-learning-on-pytorch/)
 - [Fast Neural Style Transfer by PyTorch &lpar;Mac OS&rpar;](https://cuicaihao.com/2021/01/31/fast-neural-style-transfer-by-pytorch-mac-os-2/)
-- [Deep Learning Specialization on Coursera](https://cuicaihao.com/2021/01/28/deep-learning-specialization-on-coursera/)
 <!-- BLOG:END -->
 ---
 
