@@ -19,15 +19,15 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently working on Data Platform and System for the largest retail business in Australia.
-- 🌱 I have been practicing Software Product Management (SPM) for a few private projects related the stock markert and funds analysis since 2019.
+- 🌱 I have been practicing Software Product Management (SPM) for a few private projects related the stock market and funds analysis since 2019.
 - 😎 Keep building on my project on Quantitative Trading and Stock Ranking Software.
 - ⚡ Fun Fact: I originally planned to be an artist/painter, but accidentally got on the ship of Science and Technology~
-- 🤔 2023 Goals:
-  - [X] Keep being role model and targeting the top 10% in Teams.
-  - [X] Keep supporting academic communities by giving reviews and feedbacks as reviewer and associate editor.
-  - [X] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
-  - [X] Keep writing my blogs of technology or algorithm applications on my website.
-  - [ ] Publish one paper onacademic journals in 2023 on AI application in industry.
+- 🤔 2024 Goals:
+  - [ ] Keep being role model and targeting the top 10% in Teams.
+  - [ ] Keep supporting academic communities by offering feedbacks as reviewer and associate editor, please send review invitation to **caihao.cui[at]ieee.org**.
+  - [ ] Keep writing my blogs of technology or algorithm applications on my website.
+  - [ ] Publish one paper on academic journals in 2024 on AI application in industry.
+  - [ ] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
