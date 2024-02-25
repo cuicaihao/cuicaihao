@@ -4,8 +4,8 @@ on:
     branches: ["main"]
   workflow_dispatch:
   schedule:
-    # Runs every hour
-    - cron: "0 * * * *"
+    # Runs at 12:30 PM every Saturday
+    - cron: "30 12 * * 6"
 
 jobs:
   update-readme-with-blog:
