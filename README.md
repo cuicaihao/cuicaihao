@@ -45,8 +45,14 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 ---
 
 👨🏻‍💻 **Open Source Project**
-- [SplitRaster](https://pypi.org/project/splitraster/) is a Python Package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
-  - [![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster)[![CI](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-app.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-app.yml)[![image](https://img.shields.io/pypi/dm/splitraster?color=blue)](https://python.org/pypi/splitraster)[![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster)
+
+[SplitRaster](https://pypi.org/project/splitraster/)
+
+[![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster) [![CD](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-CD.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-CD.yml) [![DMonth](https://pepy.tech/badge/splitraster/month)](https://pepy.tech/project/splitraster) [![DTotal](https://pepy.tech/badge/splitraster?)](https://pepy.tech/project/splitraster) [![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster) [![image](https://img.shields.io/pypi/pyversions/splitraster)](https://python.org/pypi/splitraster) 
+
+SplitRaster is a Python Package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
+  
+
   - Github: https://github.com/cuicaihao/split_raster
   - Pypi: https://pypi.org/project/splitraster/
   - Tutorial with Docs:  https://cuicaihao.github.io/split_raster/
