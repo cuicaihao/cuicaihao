@@ -31,6 +31,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [The Future of Coding: Will Generative AI Make Programmers Obsolete?](https://cuicaihao.com/2024/05/04/the-future-of-coding-will-generative-ai-make-programmers-obsolete/)
 - [Enigma – Mission X Challenge Accomplished with Python](https://cuicaihao.com/2024/04/20/enigma-mission-x-challenge-accomplished-with-python/)
 - [Prompt Engineering for LLM](https://cuicaihao.com/2024/02/04/prompt-engineering-for-llm/)
 - [Technical Review 04:  Human-Computer Interface from In-Context Learning to Instruct Understanding](https://cuicaihao.com/2023/12/09/technical-review-04-human-computer-interface-from-in-context-learning-to-instruct-understanding/)
@@ -40,7 +41,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [F23 Contribution to Standford University Rural Area Education Program](https://cuicaihao.com/2023/10/26/f23-contribution-to-standford-university-rural-area-education-program/)
 - [Google Cloud Professional Machine Learning Engineer Exam Prep Guide and Study Tips](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 - [Deep Learning Recommender System – Part 1: Technical Framework](https://cuicaihao.com/2022/06/26/deep-learning-recommender-systems-part-1-technical-framework/)
-- [Deep ConvNets for Oracle Bone Script Recognition with PyTorch and Qt-GUI](https://cuicaihao.com/2022/04/03/deep-convnets-for-oracle-bone-script-recognition-with-pytorch-and-qt-gui/)
 <!-- BLOG:END -->
 ---
 
