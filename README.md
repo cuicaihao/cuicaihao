@@ -31,6 +31,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Is the AI PC a Gimmick or a Faster Carriage?](https://cuicaihao.com/2024/05/26/is-the-ai-pc-a-gimmick-or-a-faster-carriage/)
 - [AI Revolutionizes Industry and Retail: From Production Lines to Personalized Shopping Experiences](https://cuicaihao.com/2024/05/25/ai-revolutionizes-industry-and-retail-from-production-lines-to-personalized-shopping-experiences/)
 - [The Future of Coding: Will Generative AI Make Programmers Obsolete?](https://cuicaihao.com/2024/05/04/the-future-of-coding-will-generative-ai-make-programmers-obsolete/)
 - [Enigma – Mission X Challenge Accomplished with Python](https://cuicaihao.com/2024/04/20/enigma-mission-x-challenge-accomplished-with-python/)
@@ -40,7 +41,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Technical Review 02: Data and Knowlege for Large Language Model &lpar;LLM&rpar;](https://cuicaihao.com/2023/10/30/technical-review-data-and-knowlege-for-large-language-model-llm/)
 - [Technical Review 01: Large Language Model &lpar;LLM&rpar; and NLP Research Paradigm Transformation](https://cuicaihao.com/2023/10/30/technical-review-large-language-model-llm-and-nlp-research-paradigm-transformation/)
 - [F23 Contribution to Standford University Rural Area Education Program](https://cuicaihao.com/2023/10/26/f23-contribution-to-standford-university-rural-area-education-program/)
-- [Google Cloud Professional Machine Learning Engineer Exam Prep Guide and Study Tips](https://cuicaihao.com/2023/09/03/a-guide-to-acing-the-google-cloud-professional-machine-learning-engineer-certification/)
 <!-- BLOG:END -->
 ---
 
