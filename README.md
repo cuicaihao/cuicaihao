@@ -31,6 +31,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [2024 Guest Lecture Notes: AI, Machine Learning and Data Mining in Recommendation System and Entity Matching](https://cuicaihao.com/2024/10/19/2024-guest-lecture-notes-ai-machine-learning-and-data-mining-in-recommendation-system-and-entity-matching/)
 - [Is the AI PC a Gimmick or a Faster Carriage?](https://cuicaihao.com/2024/05/26/is-the-ai-pc-a-gimmick-or-a-faster-carriage/)
 - [AI Revolutionizes Industry and Retail: From Production Lines to Personalized Shopping Experiences](https://cuicaihao.com/2024/05/25/ai-revolutionizes-industry-and-retail-from-production-lines-to-personalized-shopping-experiences/)
 - [The Future of Coding: Will Generative AI Make Programmers Obsolete?](https://cuicaihao.com/2024/05/04/the-future-of-coding-will-generative-ai-make-programmers-obsolete/)
@@ -40,7 +41,6 @@ In addition to my professional endeavors, I am a passionate advocate for open so
 - [Technical Review 03: Scale Effects &amp; What happens when LLMs get bigger and bigger](https://cuicaihao.com/2023/11/12/technical-review-03-scale-effects-what-happens-when-llms-get-bigger-and-bigger/)
 - [Technical Review 02: Data and Knowlege for Large Language Model &lpar;LLM&rpar;](https://cuicaihao.com/2023/10/30/technical-review-data-and-knowlege-for-large-language-model-llm/)
 - [Technical Review 01: Large Language Model &lpar;LLM&rpar; and NLP Research Paradigm Transformation](https://cuicaihao.com/2023/10/30/technical-review-large-language-model-llm-and-nlp-research-paradigm-transformation/)
-- [F23 Contribution to Standford University Rural Area Education Program](https://cuicaihao.com/2023/10/26/f23-contribution-to-standford-university-rural-area-education-program/)
 <!-- BLOG:END -->
 ---
 
