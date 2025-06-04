@@ -11,11 +11,13 @@
  
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=300" />
 
-As a Professional Machine Learning Engineer and seasoned Senior Data Scientist, adept, and accomplished Control System Engineer specializing in Planning and Decision Making, I thrive at the intersection of cutting-edge technologies. My current focus lies in harnessing the power of Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), and Deep Learning (DL) to craft innovative applications and software solutions.
+I’m a professional Machine Learning Engineer and experienced Data Scientist with a strong foundation in control systems, planning, and decision-making. My work lives at the intersection of ML, NLP, CV, and DL — driving the development of practical, intelligent applications that push the boundaries of what machines can learn and do.
 
-With expertise spanning multiple programming languages, including Python, Java, JavaScript, and C/C++, I bring a versatile skill set to every project. My work not only revolves around building ML and AI-driven applications but also extends to optimizing system performance and decision-making processes.
+With hands-on experience in large-scale retail business environments, I’ve applied advanced machine learning techniques to optimize recommendation systems, customer personalization, and operational efficiency in real-world commercial settings.
 
-In addition to my professional endeavors, I am a passionate advocate for open source communities. I actively contribute to various projects and channel my enthusiasm for NLP and Algorithms into creating and nurturing new initiatives. Explore my GitHub repositories to discover a wealth of projects and ideas at the forefront of technology and data science.
+Fluent in Python, Java, JavaScript, and C/C++, I build robust AI-powered systems and scalable software solutions. My contributions span from deploying production-grade ML pipelines to refining algorithmic efficiency and system design.
+
+I’m also an advocate for open source, regularly contributing to and maintaining projects focused on NLP, algorithms, and applied machine learning.  
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently a Tech Lead and working on recommendation systems for the largest retail business in Australia.
@@ -26,7 +28,7 @@ In addition to my professional endeavors, I am a passionate advocate for open so
   - [x] Keep being role model and targeting the top 10% in Teams.
   - [x] Keep supporting academic communities by offering feedbacks as reviewer and associate editor, please send review invitation to **caihao.cui[at]ieee.org**.
   - [x] Keep writing my blogs of technology or algorithm applications on my website.
-  - [ ] Publish one paper on academic journals in 2025 on AI application in industry.
+  - [ ] Publish 12 long blogs in 2025 on AI application in industry.
   - [x] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
 
 📕 **Latest 10 Posts on My Blog**
