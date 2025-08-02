@@ -33,6 +33,7 @@ I’m also an advocate for open source, regularly contributing to and maintainin
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [《大模型精诚》两篇](https://cuicaihao.com/2025/07/27/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%b2%be%e8%af%9a%e3%80%8b%e4%b8%a4%e7%af%87/)
 - [Zuckerberg’s Gamble: Risks and Rewards in AI Talent Acquisition](https://cuicaihao.com/2025/07/19/zuckerbergs-gamble-risks-and-rewards-in-ai-talent-acquisition/)
 - [Our Future with AI: Three Strategies to Ensure It Stays on Our Side](https://cuicaihao.com/2025/05/31/our-future-with-ai-three-strategies-to-ensure-it-stays-on-our-side/)
 - [2024 Guest Lecture Notes: AI, Machine Learning and Data Mining in Recommendation System and Entity Matching](https://cuicaihao.com/2024/10/19/2024-guest-lecture-notes-ai-machine-learning-and-data-mining-in-recommendation-system-and-entity-matching/)
@@ -42,7 +43,6 @@ I’m also an advocate for open source, regularly contributing to and maintainin
 - [Enigma – Mission X Challenge Accomplished with Python](https://cuicaihao.com/2024/04/20/enigma-mission-x-challenge-accomplished-with-python/)
 - [Prompt Engineering for LLM](https://cuicaihao.com/2024/02/04/prompt-engineering-for-llm/)
 - [Technical Review 04:  Human-Computer Interface from In-Context Learning to Instruct Understanding](https://cuicaihao.com/2023/12/09/technical-review-04-human-computer-interface-from-in-context-learning-to-instruct-understanding/)
-- [Technical Review 03: Scale Effects &amp; What happens when LLMs get bigger and bigger](https://cuicaihao.com/2023/11/12/technical-review-03-scale-effects-what-happens-when-llms-get-bigger-and-bigger/)
 <!-- BLOG:END -->
 ---
 
