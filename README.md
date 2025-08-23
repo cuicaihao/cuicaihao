@@ -33,6 +33,8 @@ I’m also an advocate for open source, regularly contributing to and maintainin
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [AI-Powered Search: Google’s Transformation vs. Perplexity](https://cuicaihao.com/2025/08/20/ai-powered-search-googles-transformation-vs-perplexity/)
+- [小说：见证者 Witness](https://cuicaihao.com/2025/08/18/%e5%b0%8f%e8%af%b4%ef%bc%9a%e8%a7%81%e8%af%81%e8%80%85-witness/)
 - [《大模型精诚》两篇](https://cuicaihao.com/2025/07/27/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%b2%be%e8%af%9a%e3%80%8b%e4%b8%a4%e7%af%87/)
 - [Zuckerberg’s Gamble: Risks and Rewards in AI Talent Acquisition](https://cuicaihao.com/2025/07/19/zuckerbergs-gamble-risks-and-rewards-in-ai-talent-acquisition/)
 - [Our Future with AI: Three Strategies to Ensure It Stays on Our Side](https://cuicaihao.com/2025/05/31/our-future-with-ai-three-strategies-to-ensure-it-stays-on-our-side/)
@@ -41,8 +43,6 @@ I’m also an advocate for open source, regularly contributing to and maintainin
 - [AI Revolutionizes Industry and Retail: From Production Lines to Personalized Shopping Experiences](https://cuicaihao.com/2024/05/25/ai-revolutionizes-industry-and-retail-from-production-lines-to-personalized-shopping-experiences/)
 - [The Future of Coding: Will Generative AI Make Programmers Obsolete?](https://cuicaihao.com/2024/05/04/the-future-of-coding-will-generative-ai-make-programmers-obsolete/)
 - [Enigma – Mission X Challenge Accomplished with Python](https://cuicaihao.com/2024/04/20/enigma-mission-x-challenge-accomplished-with-python/)
-- [Prompt Engineering for LLM](https://cuicaihao.com/2024/02/04/prompt-engineering-for-llm/)
-- [Technical Review 04:  Human-Computer Interface from In-Context Learning to Instruct Understanding](https://cuicaihao.com/2023/12/09/technical-review-04-human-computer-interface-from-in-context-learning-to-instruct-understanding/)
 <!-- BLOG:END -->
 ---
 
