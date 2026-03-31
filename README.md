@@ -2,34 +2,30 @@
 
 ### Hi Friends  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=14 height=14>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caihao-cui/)
 [![C.Cui Blog](https://img.shields.io/badge/C.Cui%20Blog-Live-blue)](https://cuicaihao.com/)
-[![Linkedin: Chris Cui](https://img.shields.io/badge/-Caihao%20Cui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caihao-cui/)](https://www.linkedin.com/in/caihao-cui/)
-![Lincense](https://img.shields.io/github/license/cuicaihao/cuicaihao?color=blue)
-![](https://img.shields.io/github/last-commit/cuicaihao/cuicaihao?color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/cuicaihao?label=Follow&style=social)
+![](https://img.shields.io/github/last-commit/cuicaihao/cuicaihao?color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/cuicaihao?affiliations=OWNER&style=social)
- 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cuicaihao&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&card_width=300" />
+![Lincense](https://img.shields.io/github/license/cuicaihao/cuicaihao?color=blue)
 
-I’m a professional Machine Learning Engineer and experienced Data Scientist with a strong foundation in control systems, planning, and decision-making. My work lives at the intersection of ML, NLP, CV, and DL — driving the development of practical, intelligent applications that push the boundaries of what machines can learn and do.
+I'm a Machine Learning Engineer and Data Scientist specializing in ML, NLP, CV, DL, GenAI, and Agentic AI. I develop practical, intelligent applications that push boundaries in machine learning and automation.
 
-With hands-on experience in large-scale retail business environments, I’ve applied advanced machine learning techniques to optimize recommendation systems, customer personalization, and operational efficiency in real-world commercial settings.
+As Tech Lead in large-scale retail, I've optimized recommendation systems and operational efficiency using advanced ML and generative AI. I specialize in building autonomous agentic systems leveraging LLMs for intelligent decision-making.
 
-Fluent in Python, Java, JavaScript, and C/C++, I build robust AI-powered systems and scalable software solutions. My contributions span from deploying production-grade ML pipelines to refining algorithmic efficiency and system design.
-
-I’m also an advocate for open source, regularly contributing to and maintaining projects focused on NLP, algorithms, and applied machine learning.  
+Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered systems—from production ML pipelines to agentic workflows. Active in open source, contributing to projects in NLP, algorithms, and generative AI.
 
 - 📝 Visit [C.Cui Blog](https://cuicaihao.com/) to find interesting articles.
 - 🔭 I’m currently a Tech Lead and working on recommendation systems for the largest retail business in Australia.
 - 🌱 I have been practicing Software Product Management (SPM) for a few private projects related the stock market and funds analysis since 2019.
 - 😎 Keep building on my project on Quantitative Trading and Stock Ranking Software.
 - ⚡ Fun Fact: I originally planned to be an artist/painter, but accidentally got on the ship of Science and Technology~
-- 🤔 2025 Goals:
-  - [x] Keep being role model and targeting the top 10% in Teams.
-  - [x] Keep supporting academic communities by offering feedbacks as reviewer and associate editor, please send review invitation to **caihao.cui[at]ieee.org**.
-  - [x] Keep writing my blogs of technology or algorithm applications on my website.
-  - [ ] Publish 12 long blogs in 2025 on AI application in industry.
-  - [x] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
+- 🤔 2026 Goals:
+  - [ ] Keep being role model and targeting the top 10% in Teams.
+  - [ ] Keep supporting academic communities by offering feedbacks as reviewer and associate editor, please send review invitation to **caihao.cui[at]ieee.org**.
+  - [ ] Keep writing my blogs of technology or algorithm applications on my website.
+  - [ ] Publish 6 long blogs in 2025 on AI application in industry.
+  - [ ] Contribute more to the Deep Learning Open Source projects ([TensorFlow](https://github.com/tensorflow), [PyTorch](https://github.com/pytorch) and [PaddleX](https://github.com/PaddlePaddle)).
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
@@ -50,19 +46,17 @@ I’m also an advocate for open source, regularly contributing to and maintainin
 
 [SplitRaster](https://pypi.org/project/splitraster/)
 
-[![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster) [![CD](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-CD.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-CD.yml) [![DMonth](https://pepy.tech/badge/splitraster/month)](https://pepy.tech/project/splitraster) [![DTotal](https://pepy.tech/badge/splitraster?)](https://pepy.tech/project/splitraster) [![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster) [![image](https://img.shields.io/pypi/pyversions/splitraster)](https://python.org/pypi/splitraster) 
+[![image](https://img.shields.io/pypi/v/splitraster?color=g)](https://python.org/pypi/splitraster) [![CD](https://img.shields.io/github/actions/workflow/status/cuicaihao/split_raster/python-CD.yml?branch=master)](https://github.com/cuicaihao/split_raster/actions/workflows/python-CD.yml) [![DMonth](https://pepy.tech/badge/splitraster/month)](https://pepy.tech/project/splitraster) [![DTotal](https://pepy.tech/badge/splitraster?)](https://pepy.tech/project/splitraster) [![image](https://img.shields.io/github/license/cuicaihao/split_raster?color=blue)](https://python.org/pypi/splitraster) [![image](https://img.shields.io/pypi/pyversions/splitraster)](https://python.org/pypi/splitraster)
 
-SplitRaster is a Python Package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`. 
+SplitRaster is a Python Package to split a large image into small tiles. It is useful for deep learning and computer vision tasks. The package can also be used to split a large image into small tiles with geo-information embedded, like `tif`, `tiff`.
   
+- Github: <https://github.com/cuicaihao/split_raster>
+- Pypi: <https://pypi.org/project/splitraster/>
+- Tutorial with Docs:  <https://cuicaihao.github.io/split_raster/>
 
-  - Github: https://github.com/cuicaihao/split_raster
-  - Pypi: https://pypi.org/project/splitraster/
-  - Tutorial with Docs:  https://cuicaihao.github.io/split_raster/
+📖 **Tech Stack & Tools**
 
- 
-📖 **Tech Stack & Tools** 
-
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="docker"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes"></code>
@@ -73,7 +67,7 @@ SplitRaster is a Python Package to split a large image into small tiles. It is u
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="pycharm"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" title="intellij"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" title="intellij"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="anaconda"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" title="opencv"></code>
@@ -90,7 +84,7 @@ SplitRaster is a Python Package to split a large image into small tiles. It is u
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="electron"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" title="electron"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" title="arduino"></code>
