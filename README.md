@@ -29,6 +29,7 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [The Architecture of Thinking: Cognitive Models for Complex Systems and Decision-Making](https://cuicaihao.com/2026/04/25/the-architecture-of-thinking-cognitive-models-for-complex-systems-and-decision-making/)
 - [仙侠演义下的人工智能大道之争](https://cuicaihao.com/2026/02/08/%e4%bb%99%e4%be%a0%e6%bc%94%e4%b9%89%e4%b8%8b%e7%9a%84%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%a4%a7%e9%81%93%e4%b9%8b%e4%ba%89/)
 - [Understanding the Forward Deployed Engineer &lpar;FDE&rpar; Model for AI Startups](https://cuicaihao.com/2025/09/14/understanding-the-forward-deployed-engineer-fde-model-for-ai-startups/)
 - [AI-Powered Search: Google’s Transformation vs. Perplexity](https://cuicaihao.com/2025/08/20/ai-powered-search-googles-transformation-vs-perplexity/)
@@ -38,7 +39,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [Our Future with AI: Three Strategies to Ensure It Stays on Our Side](https://cuicaihao.com/2025/05/31/our-future-with-ai-three-strategies-to-ensure-it-stays-on-our-side/)
 - [2024 Guest Lecture Notes: AI, Machine Learning and Data Mining in Recommendation System and Entity Matching](https://cuicaihao.com/2024/10/19/2024-guest-lecture-notes-ai-machine-learning-and-data-mining-in-recommendation-system-and-entity-matching/)
 - [Is the AI PC a Gimmick or a Faster Carriage?](https://cuicaihao.com/2024/05/26/is-the-ai-pc-a-gimmick-or-a-faster-carriage/)
-- [AI Revolutionizes Industry and Retail: From Production Lines to Personalized Shopping Experiences](https://cuicaihao.com/2024/05/25/ai-revolutionizes-industry-and-retail-from-production-lines-to-personalized-shopping-experiences/)
 <!-- BLOG:END -->
 ---
 
