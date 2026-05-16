@@ -29,6 +29,7 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Comparing GPT, Gemini, and Claude in 2026: It’s No Longer About ‘Who’s Better at Chatting’](https://cuicaihao.com/2026/05/10/comparing-gpt-gemini-and-claude-in-2026-its-no-longer-about-whos-better-at-chatting/)
 - [Design Structure Matrix &lpar;DSM&rpar; and Gantt Charts: Structural Design vs. Time Scheduling](https://cuicaihao.com/2026/05/02/design-structure-matrix-dsm-and-gantt-charts-structural-design-vs-time-scheduling/)
 - [The Architecture of Thinking: Cognitive Models for Complex Systems and Decision-Making](https://cuicaihao.com/2026/04/25/the-architecture-of-thinking-cognitive-models-for-complex-systems-and-decision-making/)
 - [仙侠演义下的人工智能大道之争](https://cuicaihao.com/2026/02/08/%e4%bb%99%e4%be%a0%e6%bc%94%e4%b9%89%e4%b8%8b%e7%9a%84%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%a4%a7%e9%81%93%e4%b9%8b%e4%ba%89/)
@@ -38,7 +39,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [《大模型精诚》两篇](https://cuicaihao.com/2025/07/27/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%b2%be%e8%af%9a%e3%80%8b%e4%b8%a4%e7%af%87/)
 - [Zuckerberg’s Gamble: Risks and Rewards in AI Talent Acquisition](https://cuicaihao.com/2025/07/19/zuckerbergs-gamble-risks-and-rewards-in-ai-talent-acquisition/)
 - [Our Future with AI: Three Strategies to Ensure It Stays on Our Side](https://cuicaihao.com/2025/05/31/our-future-with-ai-three-strategies-to-ensure-it-stays-on-our-side/)
-- [2024 Guest Lecture Notes: AI, Machine Learning and Data Mining in Recommendation System and Entity Matching](https://cuicaihao.com/2024/10/19/2024-guest-lecture-notes-ai-machine-learning-and-data-mining-in-recommendation-system-and-entity-matching/)
 <!-- BLOG:END -->
 ---
 
