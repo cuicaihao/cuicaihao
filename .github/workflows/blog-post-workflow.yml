@@ -20,4 +20,4 @@ jobs:
         with:
           comment_tag_name: BLOG
           max_post_count: "10"
-          feed_list: "https://cuicaihao.com/feed/"
+          feed_list: "https://cuicaihao.github.io/posts/index.xml"
