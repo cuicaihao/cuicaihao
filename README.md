@@ -28,16 +28,16 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
-- [Mathematics in the Age of AI: Terence Tao’s Vision for the Mathematical Community](https://cuicaihao.com/2026/07/31/mathematics-in-the-age-of-ai-terence-taos-vision-for-the-mathematical-community/)
-- [Goodhart’s Law: The Tyranny of Metrics](https://cuicaihao.com/2026/07/13/goodharts-law-the-tyranny-of-metrics/)
-- [Comparing GPT, Gemini, and Claude in 2026: It’s No Longer About ‘Who’s Better at Chatting’](https://cuicaihao.com/2026/05/10/comparing-gpt-gemini-and-claude-in-2026-its-no-longer-about-whos-better-at-chatting/)
-- [Design Structure Matrix &lpar;DSM&rpar; and Gantt Charts: Structural Design vs. Time Scheduling](https://cuicaihao.com/2026/05/02/design-structure-matrix-dsm-and-gantt-charts-structural-design-vs-time-scheduling/)
-- [The Architecture of Thinking: Cognitive Models for Complex Systems and Decision-Making](https://cuicaihao.com/2026/04/25/the-architecture-of-thinking-cognitive-models-for-complex-systems-and-decision-making/)
-- [仙侠演义下的人工智能大道之争](https://cuicaihao.com/2026/02/08/%e4%bb%99%e4%be%a0%e6%bc%94%e4%b9%89%e4%b8%8b%e7%9a%84%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd%e5%a4%a7%e9%81%93%e4%b9%8b%e4%ba%89/)
-- [Understanding the Forward Deployed Engineer &lpar;FDE&rpar; Model for AI Startups](https://cuicaihao.com/2025/09/14/understanding-the-forward-deployed-engineer-fde-model-for-ai-startups/)
-- [AI-Powered Search: Google’s Transformation vs. Perplexity](https://cuicaihao.com/2025/08/20/ai-powered-search-googles-transformation-vs-perplexity/)
-- [小说：见证者 Witness](https://cuicaihao.com/2025/08/18/%e5%b0%8f%e8%af%b4%ef%bc%9a%e8%a7%81%e8%af%81%e8%80%85-witness/)
-- [《大模型精诚》两篇](https://cuicaihao.com/2025/07/27/%e3%80%8a%e5%a4%a7%e6%a8%a1%e5%9e%8b%e7%b2%be%e8%af%9a%e3%80%8b%e4%b8%a4%e7%af%87/)
+- [Why an AI Animated Series Can Reach Eleven Seasons: From Generative Models to Production Systems](https://cuicaihao.github.io/posts/2026-08-22-why-an-ai-animated-series-can-reach-eleven-seasons/)
+- [Between Relationships and Rules: How to Get Things Done in Imperfect Organizations](https://cuicaihao.github.io/posts/2026-08-19-between-relationships-and-rules-how-to-get-things-done-in-imperfect-organizations/)
+- [How Generative AI is Reshaping Recommendation Systems](https://cuicaihao.github.io/posts/2026-08-19-how-generative-ai-is-reshaping-recommendation-systems/)
+- [How Much Are Elite Universities Really Worth? The Real Relationship Between University Rankings and Career Development](https://cuicaihao.github.io/posts/2026-08-14-how-much-are-elite-universities-really-worth-the-real-relationship-between-university-rankings-and-career-development/)
+- [Australia&#39;s 2026 Census: Beyond Counts, Building a Structural Data Foundation](https://cuicaihao.github.io/posts/2026-08-11-australias-2026-census-beyond-counts-building-a-structural-data-foundation/)
+- [Exploration and Generation: A Meaning of Life](https://cuicaihao.github.io/posts/2026-08-10-exploration-and-generation-a-meaning-of-life/)
+- [In the AI Era, Why Does Trust Grow Scarcer as Ability Becomes Easier to Demonstrate?](https://cuicaihao.github.io/posts/2026-08-10-in-the-ai-era-ability-is-cheap-trust-is-precious/)
+- [Google&#39;s AI Restructuring: A Signal of a New Era for Talent and Innovation](https://cuicaihao.github.io/posts/2026-08-08-googles-ai-restructuring-a-signal-of-a-new-era-for-talent-and-innovation/)
+- [Optimizing LLM Inference: From PagedAttention to AI Infra](https://cuicaihao.github.io/posts/2026-08-08-optimizing-llm-inference-the-role-of-pagedattention-in-efficient-gpu-memory-management/)
+- [Pre-training and Post-training: Your Upper and Lower Bounds of Ability](https://cuicaihao.github.io/posts/2026-08-07-pre-training-and-post-training-your-upper-and-lower-bounds-of-ability/)
 <!-- BLOG:END -->
 ---
 
