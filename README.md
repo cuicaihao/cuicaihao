@@ -28,16 +28,16 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Do Enterprises Really Need AI Agents? When to Let Models Decide the Next Step](https://cuicaihao.github.io/posts/2026-08-26-ai-agents-in-the-enterprise-when-to-cede-control-over-next-steps/)
+- [How AI Foundation Models Address Scaling Bottlenecks: Mathematical Structures, Algorithm Design, and Systems Engineering](https://cuicaihao.github.io/posts/2026-08-25-mathematical-and-algorithmic-ideas-that-changed-ai-over-the-last-decade-from-scaling-bottlenecks-to-foundation-models/)
+- [Unmasking AI Vulnerabilities: The Challenge of LLM Safety and Jailbreaking](https://cuicaihao.github.io/posts/2026-08-24-unmasking-ai-vulnerabilities-the-challenge-of-llm-safety-and-jailbreaking/)
+- [Is Enterprise RAG Worth It? From Choosing Use Cases to Ongoing Governance](https://cuicaihao.github.io/posts/2026-08-23-is-enterprise-rag-worth-implementing-from-scenario-selection-to-ongoing-governance/)
+- [Why You Must Still Write Down Your Ideas in the Age of AI](https://cuicaihao.github.io/posts/2026-08-23-why-you-must-still-write-down-your-ideas-in-the-age-of-ai/)
 - [Why an AI Animated Series Can Reach Eleven Seasons: From Generative Models to Production Systems](https://cuicaihao.github.io/posts/2026-08-22-why-an-ai-animated-series-can-reach-eleven-seasons/)
 - [Between Relationships and Rules: How to Get Things Done in Imperfect Organizations](https://cuicaihao.github.io/posts/2026-08-19-between-relationships-and-rules-how-to-get-things-done-in-imperfect-organizations/)
 - [How Generative AI is Reshaping Recommendation Systems](https://cuicaihao.github.io/posts/2026-08-19-how-generative-ai-is-reshaping-recommendation-systems/)
 - [How Much Are Elite Universities Really Worth? The Real Relationship Between University Rankings and Career Development](https://cuicaihao.github.io/posts/2026-08-14-how-much-are-elite-universities-really-worth-the-real-relationship-between-university-rankings-and-career-development/)
 - [Australia&#39;s 2026 Census: Beyond Counts, Building a Structural Data Foundation](https://cuicaihao.github.io/posts/2026-08-11-australias-2026-census-beyond-counts-building-a-structural-data-foundation/)
-- [Exploration and Generation: A Meaning of Life](https://cuicaihao.github.io/posts/2026-08-10-exploration-and-generation-a-meaning-of-life/)
-- [In the AI Era, Why Does Trust Grow Scarcer as Ability Becomes Easier to Demonstrate?](https://cuicaihao.github.io/posts/2026-08-10-in-the-ai-era-ability-is-cheap-trust-is-precious/)
-- [Google&#39;s AI Restructuring: A Signal of a New Era for Talent and Innovation](https://cuicaihao.github.io/posts/2026-08-08-googles-ai-restructuring-a-signal-of-a-new-era-for-talent-and-innovation/)
-- [Optimizing LLM Inference: From PagedAttention to AI Infra](https://cuicaihao.github.io/posts/2026-08-08-optimizing-llm-inference-the-role-of-pagedattention-in-efficient-gpu-memory-management/)
-- [Pre-training and Post-training: Your Upper and Lower Bounds of Ability](https://cuicaihao.github.io/posts/2026-08-07-pre-training-and-post-training-your-upper-and-lower-bounds-of-ability/)
 <!-- BLOG:END -->
 ---
 
