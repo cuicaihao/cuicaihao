@@ -28,16 +28,16 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
+- [Scientific Research: Investment Can Be Planned, But Breakthroughs Cannot Be Scheduled — A Discussion Inspired by Two Fields Medals](https://cuicaihao.github.io/posts/2026-08-30-scientific-research-investment-can-be-planned-but-breakthroughs-cannot-be-scheduled-a-discussion-inspired-by-two-fields-medals/)
+- [Unpacking AI Model Open Source: What&#39;s Truly &#39;Open&#39;? A Full Panorama from Open Weights, Business Closed Loops, to Enterprise Adoption](https://cuicaihao.github.io/posts/2026-08-30-unpacking-ai-model-open-source-whats-truly-open-a-full-panorama-from-open-weights-business-closed-loops-to-enterprise-adoption/)
+- [When Social Conflict Becomes a Recommendation Signal: Why Recommendation Algorithms Cannot Stay Neutral](https://cuicaihao.github.io/posts/2026-08-30-when-social-conflict-becomes-a-recommendation-signal/)
 - [Do Enterprises Really Need AI Agents? When to Let Models Decide the Next Step](https://cuicaihao.github.io/posts/2026-08-26-ai-agents-in-the-enterprise-when-to-cede-control-over-next-steps/)
 - [How AI Foundation Models Address Scaling Bottlenecks: Mathematical Structures, Algorithm Design, and Systems Engineering](https://cuicaihao.github.io/posts/2026-08-25-mathematical-and-algorithmic-ideas-that-changed-ai-over-the-last-decade-from-scaling-bottlenecks-to-foundation-models/)
 - [Unmasking AI Vulnerabilities: The Challenge of LLM Safety and Jailbreaking](https://cuicaihao.github.io/posts/2026-08-24-unmasking-ai-vulnerabilities-the-challenge-of-llm-safety-and-jailbreaking/)
 - [Is Enterprise RAG Worth It? From Choosing Use Cases to Ongoing Governance](https://cuicaihao.github.io/posts/2026-08-23-is-enterprise-rag-worth-implementing-from-scenario-selection-to-ongoing-governance/)
 - [Why You Must Still Write Down Your Ideas in the Age of AI](https://cuicaihao.github.io/posts/2026-08-23-why-you-must-still-write-down-your-ideas-in-the-age-of-ai/)
 - [Why an AI Animated Series Can Reach Eleven Seasons: From Generative Models to Production Systems](https://cuicaihao.github.io/posts/2026-08-22-why-an-ai-animated-series-can-reach-eleven-seasons/)
-- [Between Relationships and Rules: How to Get Things Done in Imperfect Organizations](https://cuicaihao.github.io/posts/2026-08-19-between-relationships-and-rules-how-to-get-things-done-in-imperfect-organizations/)
-- [How Generative AI is Reshaping Recommendation Systems](https://cuicaihao.github.io/posts/2026-08-19-how-generative-ai-is-reshaping-recommendation-systems/)
-- [How Much Are Elite Universities Really Worth? The Real Relationship Between University Rankings and Career Development](https://cuicaihao.github.io/posts/2026-08-14-how-much-are-elite-universities-really-worth-the-real-relationship-between-university-rankings-and-career-development/)
-- [Australia&#39;s 2026 Census: Beyond Counts, Building a Structural Data Foundation](https://cuicaihao.github.io/posts/2026-08-11-australias-2026-census-beyond-counts-building-a-structural-data-foundation/)
 <!-- BLOG:END -->
 ---
 
