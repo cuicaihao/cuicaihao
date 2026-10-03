@@ -29,6 +29,7 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
 - [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
+- [When AI Agents Begin Modifying Business State: The Need for a Runtime Framework Beyond the Model](https://cuicaihao.github.io/posts/2026-08-31-when-ai-agents-begin-modifying-business-state-the-need-for-a-runtime-framework-beyond-the-model/)
 - [Scientific Research: Investment Can Be Planned, But Breakthroughs Cannot Be Scheduled — A Discussion Inspired by Two Fields Medals](https://cuicaihao.github.io/posts/2026-08-30-scientific-research-investment-can-be-planned-but-breakthroughs-cannot-be-scheduled-a-discussion-inspired-by-two-fields-medals/)
 - [Unpacking AI Model Open Source: What&#39;s Truly &#39;Open&#39;? A Full Panorama from Open Weights, Business Closed Loops, to Enterprise Adoption](https://cuicaihao.github.io/posts/2026-08-30-unpacking-ai-model-open-source-whats-truly-open-a-full-panorama-from-open-weights-business-closed-loops-to-enterprise-adoption/)
 - [When Social Conflict Becomes a Recommendation Signal: Why Recommendation Algorithms Cannot Stay Neutral](https://cuicaihao.github.io/posts/2026-08-30-when-social-conflict-becomes-a-recommendation-signal/)
@@ -37,7 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [Unmasking AI Vulnerabilities: The Challenge of LLM Safety and Jailbreaking](https://cuicaihao.github.io/posts/2026-08-24-unmasking-ai-vulnerabilities-the-challenge-of-llm-safety-and-jailbreaking/)
 - [Is Enterprise RAG Worth It? From Choosing Use Cases to Ongoing Governance](https://cuicaihao.github.io/posts/2026-08-23-is-enterprise-rag-worth-implementing-from-scenario-selection-to-ongoing-governance/)
 - [Why You Must Still Write Down Your Ideas in the Age of AI](https://cuicaihao.github.io/posts/2026-08-23-why-you-must-still-write-down-your-ideas-in-the-age-of-ai/)
-- [Why an AI Animated Series Can Reach Eleven Seasons: From Generative Models to Production Systems](https://cuicaihao.github.io/posts/2026-08-22-why-an-ai-animated-series-can-reach-eleven-seasons/)
 <!-- BLOG:END -->
 ---
 
