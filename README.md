@@ -28,6 +28,8 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [What Are Machine Learning Models Really Optimizing? From Gradient Descent to Large Language Models](https://cuicaihao.github.io/posts/2026-10-07-optimization-in-machine-learning-from-gradient-descent-to-boosting-neural-networks-and-map/)
+- [Retail Demand Forecasting with Prophet: From Model Fundamentals to Engineering Practice](https://cuicaihao.github.io/posts/2026-10-01-prophet-retail-demand-forecast/)
 - [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
 - [When AI Agents Begin Modifying Business State: The Need for a Runtime Framework Beyond the Model](https://cuicaihao.github.io/posts/2026-08-31-when-ai-agents-begin-modifying-business-state-the-need-for-a-runtime-framework-beyond-the-model/)
 - [Scientific Research: Investment Can Be Planned, But Breakthroughs Cannot Be Scheduled — A Discussion Inspired by Two Fields Medals](https://cuicaihao.github.io/posts/2026-08-30-scientific-research-investment-can-be-planned-but-breakthroughs-cannot-be-scheduled-a-discussion-inspired-by-two-fields-medals/)
@@ -36,8 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [Do Enterprises Really Need AI Agents? When to Let Models Decide the Next Step](https://cuicaihao.github.io/posts/2026-08-26-ai-agents-in-the-enterprise-when-to-cede-control-over-next-steps/)
 - [How AI Foundation Models Address Scaling Bottlenecks: Mathematical Structures, Algorithm Design, and Systems Engineering](https://cuicaihao.github.io/posts/2026-08-25-mathematical-and-algorithmic-ideas-that-changed-ai-over-the-last-decade-from-scaling-bottlenecks-to-foundation-models/)
 - [Unmasking AI Vulnerabilities: The Challenge of LLM Safety and Jailbreaking](https://cuicaihao.github.io/posts/2026-08-24-unmasking-ai-vulnerabilities-the-challenge-of-llm-safety-and-jailbreaking/)
-- [Is Enterprise RAG Worth It? From Choosing Use Cases to Ongoing Governance](https://cuicaihao.github.io/posts/2026-08-23-is-enterprise-rag-worth-implementing-from-scenario-selection-to-ongoing-governance/)
-- [Why You Must Still Write Down Your Ideas in the Age of AI](https://cuicaihao.github.io/posts/2026-08-23-why-you-must-still-write-down-your-ideas-in-the-age-of-ai/)
 <!-- BLOG:END -->
 ---
 
