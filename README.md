@@ -28,6 +28,7 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [From a Single Tree to a Forest: Mathematical Principles, Algorithmic Evolution, and Engineering Practices of Tree Models](https://cuicaihao.github.io/posts/2026-10-17-from-a-single-tree-to-a-forest-mathematical-principles-algorithmic-evolution-and-engineering-practices-of-tree-models/)
 - [What Are Machine Learning Models Really Optimizing? From Gradient Descent to Large Language Models](https://cuicaihao.github.io/posts/2026-10-07-optimization-in-machine-learning-from-gradient-descent-to-boosting-neural-networks-and-map/)
 - [Retail Demand Forecasting with Prophet: From Model Fundamentals to Engineering Practice](https://cuicaihao.github.io/posts/2026-10-01-prophet-retail-demand-forecast/)
 - [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
@@ -37,7 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [When Social Conflict Becomes a Recommendation Signal: Why Recommendation Algorithms Cannot Stay Neutral](https://cuicaihao.github.io/posts/2026-08-30-when-social-conflict-becomes-a-recommendation-signal/)
 - [Do Enterprises Really Need AI Agents? When to Let Models Decide the Next Step](https://cuicaihao.github.io/posts/2026-08-26-ai-agents-in-the-enterprise-when-to-cede-control-over-next-steps/)
 - [How AI Foundation Models Address Scaling Bottlenecks: Mathematical Structures, Algorithm Design, and Systems Engineering](https://cuicaihao.github.io/posts/2026-08-25-mathematical-and-algorithmic-ideas-that-changed-ai-over-the-last-decade-from-scaling-bottlenecks-to-foundation-models/)
-- [Unmasking AI Vulnerabilities: The Challenge of LLM Safety and Jailbreaking](https://cuicaihao.github.io/posts/2026-08-24-unmasking-ai-vulnerabilities-the-challenge-of-llm-safety-and-jailbreaking/)
 <!-- BLOG:END -->
 ---
 
