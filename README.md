@@ -28,6 +28,7 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Retail Demand Forecasting with Graph Neural Networks: Mathematical Principles, Controlled Experiments, and Production Boundaries](https://cuicaihao.github.io/posts/2026-10-24-fsm-stochastic-gnn-retail-forecast/)
 - [From a Single Tree to a Forest: Mathematical Principles, Algorithmic Evolution, and Engineering Practices of Tree Models](https://cuicaihao.github.io/posts/2026-10-17-from-a-single-tree-to-a-forest-mathematical-principles-algorithmic-evolution-and-engineering-practices-of-tree-models/)
 - [What Are Machine Learning Models Really Optimizing? From Gradient Descent to Large Language Models](https://cuicaihao.github.io/posts/2026-10-07-optimization-in-machine-learning-from-gradient-descent-to-boosting-neural-networks-and-map/)
 - [Retail Demand Forecasting with Prophet: From Model Fundamentals to Engineering Practice](https://cuicaihao.github.io/posts/2026-10-01-prophet-retail-demand-forecast/)
@@ -37,7 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [Unpacking AI Model Open Source: What&#39;s Truly &#39;Open&#39;? A Full Panorama from Open Weights, Business Closed Loops, to Enterprise Adoption](https://cuicaihao.github.io/posts/2026-08-30-unpacking-ai-model-open-source-whats-truly-open-a-full-panorama-from-open-weights-business-closed-loops-to-enterprise-adoption/)
 - [When Social Conflict Becomes a Recommendation Signal: Why Recommendation Algorithms Cannot Stay Neutral](https://cuicaihao.github.io/posts/2026-08-30-when-social-conflict-becomes-a-recommendation-signal/)
 - [Do Enterprises Really Need AI Agents? When to Let Models Decide the Next Step](https://cuicaihao.github.io/posts/2026-08-26-ai-agents-in-the-enterprise-when-to-cede-control-over-next-steps/)
-- [How AI Foundation Models Address Scaling Bottlenecks: Mathematical Structures, Algorithm Design, and Systems Engineering](https://cuicaihao.github.io/posts/2026-08-25-mathematical-and-algorithmic-ideas-that-changed-ai-over-the-last-decade-from-scaling-bottlenecks-to-foundation-models/)
 <!-- BLOG:END -->
 ---
 
