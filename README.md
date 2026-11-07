@@ -28,6 +28,8 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Time Series Foundation Models - Google TimesFM &lpar;Part 1&rpar;: Model, Algorithms, and Engineering Practice](https://cuicaihao.github.io/posts/2026-11-07-dissecting-google-timesfm-architecture-and-algorithms/)
+- [Should We Build a Foundation Model in a Forest of Trees? A Pragmatic Guide to Time Series Foundation Models](https://cuicaihao.github.io/posts/2026-11-01-time-series-foundation-models-vs-gbdt-practical-guide/)
 - [If Only AI Understands the Proof: When Machines Take Over Deduction and Code](https://cuicaihao.github.io/posts/2026-10-31-ai-math-understanding/)
 - [Retail Demand Forecasting with Graph Neural Networks: Mathematical Principles, Controlled Experiments, and Production Boundaries](https://cuicaihao.github.io/posts/2026-10-24-fsm-stochastic-gnn-retail-forecast/)
 - [From a Single Tree to a Forest: Mathematical Principles, Algorithmic Evolution, and Engineering Practices of Tree Models](https://cuicaihao.github.io/posts/2026-10-17-from-a-single-tree-to-a-forest-mathematical-principles-algorithmic-evolution-and-engineering-practices-of-tree-models/)
@@ -36,8 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
 - [When AI Agents Begin Modifying Business State: The Need for a Runtime Framework Beyond the Model](https://cuicaihao.github.io/posts/2026-08-31-when-ai-agents-begin-modifying-business-state-the-need-for-a-runtime-framework-beyond-the-model/)
 - [Scientific Research: Investment Can Be Planned, But Breakthroughs Cannot Be Scheduled — A Discussion Inspired by Two Fields Medals](https://cuicaihao.github.io/posts/2026-08-30-scientific-research-investment-can-be-planned-but-breakthroughs-cannot-be-scheduled-a-discussion-inspired-by-two-fields-medals/)
-- [Unpacking AI Model Open Source: What&#39;s Truly &#39;Open&#39;? A Full Panorama from Open Weights, Business Closed Loops, to Enterprise Adoption](https://cuicaihao.github.io/posts/2026-08-30-unpacking-ai-model-open-source-whats-truly-open-a-full-panorama-from-open-weights-business-closed-loops-to-enterprise-adoption/)
-- [When Social Conflict Becomes a Recommendation Signal: Why Recommendation Algorithms Cannot Stay Neutral](https://cuicaihao.github.io/posts/2026-08-30-when-social-conflict-becomes-a-recommendation-signal/)
 <!-- BLOG:END -->
 ---
 
