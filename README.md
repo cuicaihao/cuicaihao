@@ -28,6 +28,8 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [Misreading Charts: How Correct Numbers Lead to Wrong Decisions in Machine Learning](https://cuicaihao.github.io/posts/2026-11-14-model-comparison-visualizationzh/)
+- [Time Series Foundation Models - Google TimesFM &lpar;Part 2&rpar;: Synthetic Retail Experiments and Forecast Analysis](https://cuicaihao.github.io/posts/2026-11-08-timesfm-retail-controlled-experiments-and-multi-model-benchmark/)
 - [Time Series Foundation Models - Google TimesFM &lpar;Part 1&rpar;: Model, Algorithms, and Engineering Practice](https://cuicaihao.github.io/posts/2026-11-07-dissecting-google-timesfm-architecture-and-algorithms/)
 - [Should We Build a Foundation Model in a Forest of Trees? A Pragmatic Guide to Time Series Foundation Models](https://cuicaihao.github.io/posts/2026-11-01-time-series-foundation-models-vs-gbdt-practical-guide/)
 - [If Only AI Understands the Proof: When Machines Take Over Deduction and Code](https://cuicaihao.github.io/posts/2026-10-31-ai-math-understanding/)
@@ -36,8 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [What Are Machine Learning Models Really Optimizing? From Gradient Descent to Large Language Models](https://cuicaihao.github.io/posts/2026-10-07-optimization-in-machine-learning-from-gradient-descent-to-boosting-neural-networks-and-map/)
 - [Retail Demand Forecasting with Prophet: From Model Fundamentals to Engineering Practice](https://cuicaihao.github.io/posts/2026-10-01-prophet-retail-demand-forecast/)
 - [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
-- [When AI Agents Begin Modifying Business State: The Need for a Runtime Framework Beyond the Model](https://cuicaihao.github.io/posts/2026-08-31-when-ai-agents-begin-modifying-business-state-the-need-for-a-runtime-framework-beyond-the-model/)
-- [Scientific Research: Investment Can Be Planned, But Breakthroughs Cannot Be Scheduled — A Discussion Inspired by Two Fields Medals](https://cuicaihao.github.io/posts/2026-08-30-scientific-research-investment-can-be-planned-but-breakthroughs-cannot-be-scheduled-a-discussion-inspired-by-two-fields-medals/)
 <!-- BLOG:END -->
 ---
 
