@@ -28,6 +28,9 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 
 📕 **Latest 10 Posts on My Blog**
 <!-- BLOG:START -->
+- [From 12V to 48V: When Does an EV Power Architecture Actually Need a Redesign?](https://cuicaihao.github.io/posts/2026-11-21-from-12v-to-48v-ev-power-architecture/)
+- [10x Faster Than Classic K-Means? Unpacking Meta&#39;s e-means](https://cuicaihao.github.io/posts/2026-11-21-e-means-kmeans-optimization/)
+- [Higher Scores, Worse Models? The Theoretical Limits of LLM Alignment](https://cuicaihao.github.io/posts/2026-11-15-how-far-can-llm-alignment-go-and-where-can-it-go-wrong/)
 - [Misreading Charts: How Correct Numbers Lead to Wrong Decisions in Machine Learning](https://cuicaihao.github.io/posts/2026-11-14-model-comparison-visualizationzh/)
 - [Time Series Foundation Models - Google TimesFM &lpar;Part 2&rpar;: Synthetic Retail Experiments and Forecast Analysis](https://cuicaihao.github.io/posts/2026-11-08-timesfm-retail-controlled-experiments-and-multi-model-benchmark/)
 - [Time Series Foundation Models - Google TimesFM &lpar;Part 1&rpar;: Model, Algorithms, and Engineering Practice](https://cuicaihao.github.io/posts/2026-11-07-dissecting-google-timesfm-architecture-and-algorithms/)
@@ -35,9 +38,6 @@ Proficient in Python, Java, JavaScript, and C/C++, I build robust AI-powered sys
 - [If Only AI Understands the Proof: When Machines Take Over Deduction and Code](https://cuicaihao.github.io/posts/2026-10-31-ai-math-understanding/)
 - [Retail Demand Forecasting with Graph Neural Networks: Mathematical Principles, Controlled Experiments, and Production Boundaries](https://cuicaihao.github.io/posts/2026-10-24-fsm-stochastic-gnn-retail-forecast/)
 - [From a Single Tree to a Forest: Mathematical Principles, Algorithmic Evolution, and Engineering Practices of Tree Models](https://cuicaihao.github.io/posts/2026-10-17-from-a-single-tree-to-a-forest-mathematical-principles-algorithmic-evolution-and-engineering-practices-of-tree-models/)
-- [What Are Machine Learning Models Really Optimizing? From Gradient Descent to Large Language Models](https://cuicaihao.github.io/posts/2026-10-07-optimization-in-machine-learning-from-gradient-descent-to-boosting-neural-networks-and-map/)
-- [Retail Demand Forecasting with Prophet: From Model Fundamentals to Engineering Practice](https://cuicaihao.github.io/posts/2026-10-01-prophet-retail-demand-forecast/)
-- [Creating Gods Gives Hope, Destroying Them Gives Self-Esteem: Behind the &quot;Deification&quot; and &quot;Reversal&quot; of Public Figures](https://cuicaihao.github.io/posts/2026-09-02-creating-gods-gives-hope-destroying-them-gives-self-esteem/)
 <!-- BLOG:END -->
 ---
 
